@@ -8,7 +8,7 @@
 SpaceX Rocket Viewer is an application that utilizes React, Redux, GraphQL, Apollo and Sass. The application allows users to view SpaceX’s previous launches and view the different equipment utilized for the launch of their rockets.
 
 
-the project is currently hosted at https://portfoliobuildertool.herokuapp.com/
+the project is currently hosted at https://space-x-viewer.netlify.app/
 
 # Architecture and Technologies
 * JavaScript, the project's front and backend programing language.
@@ -19,15 +19,10 @@ the project is currently hosted at https://portfoliobuildertool.herokuapp.com/
 
 
 # Functionality
-* Apollo Client, a comprehensive state management library for JavaScript that enables you to manage both local and remote data with GraphQL.
+* The application utilizes SpaceX's API, GraphQL, Apollo and React to allow users to view the historical past lauches of SpaceX's previuos launches with news articles, differnt graphics and information about each launches that have occured. 
 
 # Known Issues
 * Currently, there are no known issues.
-# Future Updates
-* Ability to stress test a user portfolio with various hypothetical economic scenarios.
-* Ranking of portfolio based on various return and risk metrics.  
-* Daily and weekly stock data.
-* Inclusion of Dividend Data.  
 
  
 
